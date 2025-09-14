@@ -1,3 +1,0 @@
-# app-fanta
-
-Initial setup.
